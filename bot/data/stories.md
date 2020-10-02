@@ -415,3 +415,34 @@
     - utter_tudo_bem
 * o_que_e_boss
     - utter_boss_apresenta
+
+## ola_emo_bot
+* emo_bot
+    - utter_ola_emo_bot
+* tudo_bem
+    - utter_tudo_bem
+
+## vc_eh_emo
+* emo_bot
+    - utter_vc_eh_emo
+
+## banda_favorita_emobot
+* emo_bot
+    - utter_emobot_banda favorita
+
+## musica_emo
+* emo_bot
+    - utter_emobot_musica
+    - utter_emobot_banda favorita
+
+## melhor_banda_emo
+* emo_bot
+    - utter_emobot_melhor_banda 
+
+## role_emo
+* emo_bot
+    - utter_emobot_roleemo
+
+## bye_emobot
+* emo_bot
+    - utter_emobot_tchau

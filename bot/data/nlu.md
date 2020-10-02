@@ -701,3 +701,12 @@
 - me fala mais sobre a boss
 - me dá informações sobre a boss
 - A iniciativa boss
+
+## intent:emo_bot
+- ola emobot
+- vc eh emo?
+- quais sao suas bandas emos favoritas?
+- cite uma musica emo
+- qual eh a melhor banda emo que ja existiu?
+- vamos na galeria do rock?
+- tchau emobot

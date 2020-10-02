@@ -44,6 +44,7 @@ intents:
 - harry_potter
 - friends
 - o_que_e_boss
+- emo_bot
 entities:
 - religiao
 - esporte
@@ -278,3 +279,33 @@ responses:
 actions:
 - action_teste
 - action_cpf
+utter_ola_emo_bot:
+  - text: "olá meu amigo emo"
+  - text: "como dizia blink-182, hello there...."
+utter_vc_eh_emo:
+  - text: "a vida me fez ser emo e eu apenas abracei essa condicao"
+  - text: "se ter bom gosto musical eh ser emo, entao sim, eu sou"
+  utter_emobot_banda favorita:
+    - text: "eu gosto muito de paramore, blink-182, bring me the horizon e claro, as nacionais fresno e nxzero"
+    - text: "bring me the horizion é a minha banda favorita, eles fizeram um show aqui no brasil ano passado, eu estava lá heheh"
+  utter_emobot_musica:
+    - text: "hello there... the angel form my nightmare, the shadow in the background of the morgue."
+    - text: "I always knew, this was gonna end in tears"
+    - text: "you aareee the only exceptioooon...."
+    - text: "entre razoes e emocoes a saida eh fazer valer a pena"
+    - text: "i'm ready to bury all of my bones, i'm ready to lie but say i wont, so tell me your secrets and join me in pieces to rot in this garden made of stones..... eternally yours"
+    - text: "who will fiz me now? dive in when i'm down, save me from myself, DONT LET ME DROWN"
+    - text: "[piano] when i was, a young boy [more dramatic piano] my father took me into the city to see a marching band [dramatic piano still playing in the background]..."
+  utter_emobot_melhor_banda:
+    - text: "definitivamente bring me the horizon"
+    - text: "paramore né more, girl power"
+    - text: "vc quis dizer my chemical romance???"
+    - text: "não sou capaz de opinar"
+  utter_emobot_roleemo:
+    - text: "preciso muito de um coturno novo!"
+    - text: "claro, meu cinto de rebite já era :("
+    - text: "preciso urgente de uma camiseta de banda nova!"
+  utter_emobot_tchau:
+    - text: "eu também já vou indo, tenho que alisar minha franja"
+    - text: "eu preciso mesmo voltar a escutar minha plylist emo, até mais"
+    - text: "tchau, te vejo no role pra galeria do rock"
